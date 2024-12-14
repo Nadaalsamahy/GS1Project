@@ -1,0 +1,1 @@
+{"uuid":"13e653b2-6472-41ed-a1be-11d85ffa9d1a","name":"gs1ScenarioTest","children":["6fda5573-03b0-45dc-8f9a-b80b37ef957a"],"befores":[{"name":"startDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734191634249,"stop":1734191639562}],"afters":[],"start":1734191634208,"stop":1734191659728}
